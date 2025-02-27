@@ -14,7 +14,7 @@ bl_info = {
     "description": "Import layers from an After Effects composition into Blender",
     "author": "adroitwhiz",
     "version": (0, 5, 3),
-    "blender": (2, 91, 0),
+    "blender": (2, 90, 0),
     "category": "Import-Export",
     "doc_url": "https://github.com/adroitwhiz/after-effects-to-blender-export/",
     "tracker_url": "https://github.com/adroitwhiz/after-effects-to-blender-export/issues/new?assignees=&labels=bug%2C+import&projects=&template=issue-importing-into-blender.md"
